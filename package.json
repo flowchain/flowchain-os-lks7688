@@ -1,0 +1,21 @@
+{
+  "name": "flowchain-ledger-lks7688",
+  "version": "1.0.0",
+  "dependencies": {
+    "backbone": "^1.3.3",
+    "console.table": "^0.8.0",
+    "gaussian": "^1.1.0",
+    "merkle": "^0.5.1",
+    "picodb": "^0.8.1",
+    "underscore": "^1.8.3",
+    "utils-merge": "^1.0.0",
+    "uuid": "^3.0.1",
+    "websocket": "^1.0.23"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "jollen",
+  "engines": {
+    "node": "0.12"
+  }
+}
